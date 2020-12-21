@@ -1,4 +1,4 @@
-# Ryzentosh
+# Ryzentosh with Big Sur
 
 ## Hardware
 |Hardware|Model|
