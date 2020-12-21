@@ -9,3 +9,4 @@
 |Storage|HP EX900 512G NVME|
 |WireNetwork|Realtek RTL8111H-CG|
 |WirelessNetwork|Broadcom BCM94360CD(with PCIe)|
+|Audio|Realtek® ALC892/ALC897 Codec|
