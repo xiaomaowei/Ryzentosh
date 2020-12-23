@@ -1,6 +1,6 @@
 # Ryzentosh with Big Sur
 
-**Hardware**
+**Hardware Spec list**
 |Hardware|Model|
 |:--------|:-------|
 |CPU|AMD Ryzen 5 3600|
